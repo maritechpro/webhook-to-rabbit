@@ -2,7 +2,7 @@
 Server witch listen for incoming messages to your webhook and push them to rabbit mq
 
 
-1. Create .env file with you configuration
+1. Create .env file with your configuration
 
 2. Run next to build server: 
 ```
